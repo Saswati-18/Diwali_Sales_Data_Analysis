@@ -15,8 +15,6 @@ This analysis provides several valuable insights:
 2.	Best-Selling Products: Determine which products sold out the most, aiding in effective inventory management.
 3.	State-wise Purchasing Behavior: Understand from which states the majority of purchases are coming, helping to tailor regional marketing strategies.
 4.	Customer Sectors: Analyze the sectors in which customers are employed, allowing for targeted marketing approaches to specific industries.
-Installation :
-Download the zip file, open the diwali_sales_analysis.py file.
 
 Conclusion :
 The Diwali sales data analysis project provides critical insights into customer behavior and product performance during the festive season. Understanding demographic trends and sales patterns will enable businesses to optimize inventory management and refine marketing strategies for targeted customer engagement.
